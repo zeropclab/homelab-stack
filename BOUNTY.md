@@ -6,20 +6,20 @@
 
 | # | Task | 难度 | 赏金 | 状态 |
 |---|------|------|------|------|
-| 1 | [Base Infrastructure — Traefik + Portainer + Watchtower](#) | 🟡 Medium | $180 | 🟢 Open |
-| 2 | [Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent](#) | 🟡 Medium | $160 | 🟢 Open |
-| 3 | [Storage Stack — Nextcloud + MinIO + FileBrowser](#) | 🟡 Medium | $150 | 🟢 Open |
-| 4 | [Network Stack — AdGuard + WireGuard + Nginx Proxy Manager](#) | 🟡 Medium | $140 | 🟢 Open |
-| 5 | [Productivity Stack — Gitea + Vaultwarden + Outline + BookStack](#) | 🟡 Medium | $170 | 🟢 Open |
-| 6 | [AI Stack — Ollama + Open WebUI + Stable Diffusion](#) | 🔴 Hard | $220 | 🟢 Open |
-| 7 | [Home Automation — Home Assistant + Node-RED + Zigbee2MQTT](#) | 🟡 Medium | $130 | 🟢 Open |
-| 8 | [Robustness — 国内网络适配 + 环境鲁棒性](#) | 🔴 Hard | $250 | 🟢 Open |
-| 9 | [SSO — Authentik 统一身份认证](#) | 🔴 Hard | $300 | 🟢 Open |
-| 10 | [Observability — Prometheus + Grafana + Loki + Alerting](#) | 🔴 Hard | $280 | 🟢 Open |
-| 11 | [Database Layer — PostgreSQL + Redis + MariaDB 共享实例](#) | 🟡 Medium | $130 | 🟢 Open |
-| 12 | [Backup & DR — 自动备份 + 灾难恢复](#) | 🟡 Medium | $150 | 🟢 Open |
-| 13 | [Notifications — ntfy + Apprise 通知中心](#) | 🟢 Easy | $80 | 🟢 Open |
-| 14 | [Testing Framework — 全栈自动化测试](#) | 🔴 Hard | $200 | 🟢 Open |
+| 1 | [Base Infrastructure — Traefik + Portainer + Watchtower](https://github.com/illbnm/homelab-stack/issues/1) | 🟡 Medium | $180 | 🟢 Open |
+| 2 | [Media Stack — Jellyfin + Sonarr + Radarr + qBittorrent](https://github.com/illbnm/homelab-stack/issues/2) | 🟡 Medium | $160 | 🟢 Open |
+| 3 | [Storage Stack — Nextcloud + MinIO + FileBrowser](https://github.com/illbnm/homelab-stack/issues/3) | 🟡 Medium | $150 | 🟢 Open |
+| 4 | [Network Stack — AdGuard + WireGuard + Nginx Proxy Manager](https://github.com/illbnm/homelab-stack/issues/4) | 🟡 Medium | $140 | 🟢 Open |
+| 5 | [Productivity Stack — Gitea + Vaultwarden + Outline + BookStack](https://github.com/illbnm/homelab-stack/issues/5) | 🟡 Medium | $170 | 🟢 Open |
+| 6 | [AI Stack — Ollama + Open WebUI + Stable Diffusion](https://github.com/illbnm/homelab-stack/issues/6) | 🔴 Hard | $220 | 🟢 Open |
+| 7 | [Home Automation — Home Assistant + Node-RED + Zigbee2MQTT](https://github.com/illbnm/homelab-stack/issues/7) | 🟡 Medium | $130 | 🟢 Open |
+| 8 | [Robustness — 国内网络适配 + 环境鲁棒性](https://github.com/illbnm/homelab-stack/issues/8) | 🔴 Hard | $250 | 🟢 Open |
+| 9 | [SSO — Authentik 统一身份认证](https://github.com/illbnm/homelab-stack/issues/9) | 🔴 Hard | $300 | 🟢 Open |
+| 10 | [Observability — Prometheus + Grafana + Loki + Alerting](https://github.com/illbnm/homelab-stack/issues/10) | 🔴 Hard | $280 | 🟢 Open |
+| 11 | [Database Layer — PostgreSQL + Redis + MariaDB 共享实例](https://github.com/illbnm/homelab-stack/issues/11) | 🟡 Medium | $130 | 🟢 Open |
+| 12 | [Backup & DR — 自动备份 + 灾难恢复](https://github.com/illbnm/homelab-stack/issues/12) | 🟡 Medium | $150 | 🟢 Open |
+| 13 | [Notifications — ntfy + Apprise 通知中心](https://github.com/illbnm/homelab-stack/issues/13) | 🟢 Easy | $80 | 🟢 Open |
+| 14 | [Testing Framework — 全栈自动化测试](https://github.com/illbnm/homelab-stack/issues/14) | 🔴 Hard | $200 | 🟢 Open |
 
 **总计：$2,340 USDT**
 
